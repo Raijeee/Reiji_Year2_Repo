@@ -4,20 +4,23 @@
 
 ```.py
 class Converter():
+    # This class will convert integers into binary
     def __init__(self, number):
         self.number = number
 
-    def binirize(self):
+    def binarize(self):
+        # This function will binarize the integer
         result = ""
 
         while self.number > 0:
+            # This loop will keep executing until the number is less than 0
             result = str(self.number % 2) + result
             self.number = self.number // 2
 
         return result
 
 test1 = Converter(number=125)
-print(test1.binirize())
+print(test1.binarize())
 ````
 
 ## Javascript Code
@@ -40,3 +43,7 @@ class Converter {
 let test1 = new Converter(125);
 console.log(test1.binarize());
 ```
+
+## Output
+
+![](quiz55.png)

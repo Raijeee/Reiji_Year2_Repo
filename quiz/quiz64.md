@@ -34,8 +34,8 @@ for _ in range(10):
 print(f"original: {scores} output:{sort_q2s(scores)}")
 ```
 
-output:
+## output:
 ![](quiz64out.png)
 
 ## Flowchart:
-![](quiz64flow.jpg)
+![](quiz64out.jpg)

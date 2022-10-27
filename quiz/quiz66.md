@@ -20,4 +20,4 @@ print(test1.quiz66(n=5)) #This will print the table
 ```
 
 ## Output:
-![](quiz66.png)
+![](quiz66out.png)

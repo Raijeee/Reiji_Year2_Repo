@@ -1,7 +1,7 @@
 # Reverse mode
 
 ## Python Code (OOP):
-```
+```.py
 class hello:
     def __init__(self):
         self.self=self
@@ -21,7 +21,7 @@ print(test1.quiz65(n=5,m="-")) #This will print the table
 print(test1.quiz65(n=3,m="+")) #This will print the table
 
 print(test1.quiz65(n=4,m="$")) #This will print the table
-```.py
+```
 
 ## Output: 
 

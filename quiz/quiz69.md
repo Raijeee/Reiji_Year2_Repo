@@ -10,4 +10,4 @@ print(output[:-1]) #This will print the output but in reverse order
 ```
 
 # Output:
-![](quiz69outt.png)
+![](quiz69outtt.png)

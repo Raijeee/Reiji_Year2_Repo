@@ -2,12 +2,11 @@
 
 ## Python Code:
 ```.py
-
-s = input().split() 
+s = input().split()
 output=""
-for i in s: #This will loop until the stack is empty
-    output = i +" "+ output #This will add the number to the output
-print(output[:-1]) #This will print the table)
+for i in s: #This will loop through the string
+    output = i +" "+ output #This will add the string to the output
+print(output[:-1]) #This will print the output but in reverse order
 ```
 
 # Output:

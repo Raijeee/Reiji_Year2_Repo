@@ -11,4 +11,4 @@ print(output[:-1] #This will print the table)
 ```
 
 # Output:
-![](quiz69out.png)
+![](quiz69outt.png)

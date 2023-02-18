@@ -85,6 +85,6 @@ print(newR)
 
 # Output:
 
-![](projection1.png)
+![](projections1.png)
 
-![](projection2.png)
+![](projections2.png)
